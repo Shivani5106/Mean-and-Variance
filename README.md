@@ -1,4 +1,9 @@
-#  Mean and variance of a discrete  distribution
+```c
+NAME : SHIVANI M
+REG-NO : 212224040313
+DATE : 13-03-2025
+```
+#  EXP 1: Mean and variance of a discrete  distribution
 
 
 # Aim : 
